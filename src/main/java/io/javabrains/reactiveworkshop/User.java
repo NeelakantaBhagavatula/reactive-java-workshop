@@ -4,7 +4,7 @@ package io.javabrains.reactiveworkshop;
  * This class is a sample custom Java type used in the exercises.
  * DO NOT MODIFY THIS CODE
  *
- * @author koushikkothagal
+ * @author neelakantabhagavatula
  */
 
 public class User {
